@@ -1,0 +1,8 @@
+Patient_ID,Age,Gender,Disease,Admission_Date,Discharge_Date
+1,25,F,Flu,2026-03-01,2026-03-05
+2,60,M,Diabetes,2026-03-02,2026-03-10
+3,45,F,Hypertension,2026-03-03,2026-03-08
+4,30,M,Flu,2026-03-04,2026-03-06
+5,70,F,Diabetes,2026-03-05,2026-03-15
+6,50,M,Hypertension,2026-03-06,2026-03-12
+7,20,F,Flu,2026-03-07,2026-03-09
